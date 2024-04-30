@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".routine_1y1s"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start"
+    android:id="@+id/drawerLayoutr_1y2sID"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolBar_r4y2sID"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#273238"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:subtitleTextAppearance="?android:textAppearanceLarge"
+            app:titleTextColor="@color/white">
+
+            <ImageButton
+                android:id="@+id/r1y1s_BackID"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:src="@drawable/back_btn"
+                android:background="@drawable/ripple"
+                android:onClick="funShow"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:text="Class Routine"
+                android:textAppearance="?android:textAppearanceLarge"
+                android:textStyle="bold"
+                >
+            </TextView>
+        </androidx.appcompat.widget.Toolbar>
+
+        <WebView
+            android:layout_marginTop="15dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/webView_1y2s_ID"
+            />
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

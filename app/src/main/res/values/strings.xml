@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ICT MBSTU</string>
+    <string name="opt_1">BUSS</string>
+    <string name="opt_2">CLASS</string>
+    <string name="opt_3">NOTICE</string>
+    <string name="opt_4">STUDENT</string>
+    <string name="opt_5">TEACHER</string>
+    <string name="opt_6">STAFF</string>
+    <string name="opt_7">UPDATE</string>
+    <string name="opt_8">BLOOD</string>
+    <string name="opt_9">ABOUT</string>
+
+    <string name="menu_1">Home</string>
+    <string name="menu_2">Bus schedule</string>
+    <string name="menu_3">Class routine</string>
+    <string name="menu_4">Students info</string>
+    <string name="menu_5">Teachers info</string>
+    <string name="menu_6">Stuffs info</string>
+    <string name="menu_7">Blood bank</string>
+    <string name="menu_8">Contact us</string>
+    <string name="schedule">SCHEDULE</string>
+    <string name="information">INFORMATION</string>
+    <string name="emergency">EMERGENCY</string>
+    <string name="aboutUs">About us</string>
+
+
+    <string name="navigration_open">Open Navigation drawer</string>
+    <string name="navigration_close">Close Navigation drawer</string>
+
+    <string name="back">back</string>
+    <string name="title_activity_routine3y2s">routine_3y2s</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="otp_verification">OTP Verification</string>
+    <string name="otp_send_msg">We will send you an one time password on this mobile number</string>
+    <string name="warning">Warning:: Uses Permission Only For ICT Students</string>
+    <string name="input_mobile">Enter Mobile Number</string>
+    <string name="enter_the_otp_sent_to">Enter the OTP sent to</string>
+    <string name="don_t_receive_the_otp">Don\'t receive The OTP?</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify">Verify</string>
+    <string name="_1st_batch">1st Batch</string>
+    <string name="season_ex_2018_19">Season [Ex. 2018-19]</string>
+    <string name="feedback">FeedBack</string>
+    <string name="rate_us">Rate us</string>
+    <string name="share">Share</string>
+
+</resources>
